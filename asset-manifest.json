@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d07aa980.chunk.css",
+    "main.css": "/static/css/main.b808398b.chunk.css",
     "main.js": "/static/js/main.1d0dbf9a.chunk.js",
     "main.js.map": "/static/js/main.1d0dbf9a.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.077bb605.js",
@@ -8,9 +8,9 @@
     "static/js/2.4076ffcc.chunk.js": "/static/js/2.4076ffcc.chunk.js",
     "static/js/2.4076ffcc.chunk.js.map": "/static/js/2.4076ffcc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d1fbf500104f74269bdde696282e2579.js": "/precache-manifest.d1fbf500104f74269bdde696282e2579.js",
+    "precache-manifest.cff8caeb24eb7bb7b6b33c7373c36e6f.js": "/precache-manifest.cff8caeb24eb7bb7b6b33c7373c36e6f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.d07aa980.chunk.css.map": "/static/css/main.d07aa980.chunk.css.map",
+    "static/css/main.b808398b.chunk.css.map": "/static/css/main.b808398b.chunk.css.map",
     "static/media/App.css": "/static/media/tyres.369e6c47.jpg",
     "static/media/logo-seeko-moto.png": "/static/media/logo-seeko-moto.dfb21895.png"
   }
