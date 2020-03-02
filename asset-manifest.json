@@ -1,17 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3fe6af3.chunk.css",
-    "main.js": "/static/js/main.1d0dbf9a.chunk.js",
-    "main.js.map": "/static/js/main.1d0dbf9a.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.077bb605.js",
-    "runtime~main.js.map": "/static/js/runtime~main.077bb605.js.map",
-    "static/js/2.4076ffcc.chunk.js": "/static/js/2.4076ffcc.chunk.js",
-    "static/js/2.4076ffcc.chunk.js.map": "/static/js/2.4076ffcc.chunk.js.map",
+    "main.css": "/static/css/main.c118731a.chunk.css",
+    "main.js": "/static/js/main.b9f2dd2e.chunk.js",
+    "main.js.map": "/static/js/main.b9f2dd2e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e96e2625.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e96e2625.js.map",
+    "static/css/2.d4c5f937.chunk.css": "/static/css/2.d4c5f937.chunk.css",
+    "static/js/2.e6a03790.chunk.js": "/static/js/2.e6a03790.chunk.js",
+    "static/js/2.e6a03790.chunk.js.map": "/static/js/2.e6a03790.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7c67c5960c304b002abccf532ed28437.js": "/precache-manifest.7c67c5960c304b002abccf532ed28437.js",
+    "precache-manifest.ac05abad9f7d019daac85d50e6edee77.js": "/precache-manifest.ac05abad9f7d019daac85d50e6edee77.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.f3fe6af3.chunk.css.map": "/static/css/main.f3fe6af3.chunk.css.map",
-    "static/media/App.css": "/static/media/tyres.369e6c47.jpg",
-    "static/media/logo-seeko-moto.png": "/static/media/logo-seeko-moto.dfb21895.png"
-  }
+    "static/css/2.d4c5f937.chunk.css.map": "/static/css/2.d4c5f937.chunk.css.map",
+    "static/css/main.c118731a.chunk.css.map": "/static/css/main.c118731a.chunk.css.map",
+    "static/js/2.e6a03790.chunk.js.LICENSE.txt": "/static/js/2.e6a03790.chunk.js.LICENSE.txt",
+    "static/media/LeagueLogo.png": "/static/media/LeagueLogo.d37867c8.png",
+    "static/media/app.scss": "/static/media/bg-default.19383d38.jpg",
+    "static/media/boy.png": "/static/media/boy.58c8ea61.png",
+    "static/media/girl.png": "/static/media/girl.fbd0aded.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e96e2625.js",
+    "static/css/2.d4c5f937.chunk.css",
+    "static/js/2.e6a03790.chunk.js",
+    "static/css/main.c118731a.chunk.css",
+    "static/js/main.b9f2dd2e.chunk.js"
+  ]
 }
